@@ -1,0 +1,191 @@
+{
+ "task8_cys_unified_map_v3b_all_starts": {
+  "source_file": "TASK_8_Cryptika_Phase5_Unified_Map_V3_B_All_Starts.xlsx",
+  "sheets": {
+   "map": {
+    "title": "CRYPTIKA  ·  TASK 8 - UNIFIED CYBERSECURITY CONTROL MAP — V3-B",
+    "column_groups": [
+     "CONTROL",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "INTERNATIONAL STANDARDS",
+     null,
+     null,
+     null,
+     null,
+     "SAUDI ARABIA",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "JORDAN",
+     null,
+     null,
+     null,
+     null,
+     "UAE",
+     "MAPPING QA",
+     null,
+     null
+    ],
+    "rows": 22453,
+    "non_string_cells": {},
+    "file": "task8_cys_unified_map_v3b_all_starts.map.csv.gz",
+    "csv_bytes": 27857731,
+    "gz_bytes": 2001711,
+    "sha256_csv": "9b317769d0b78570319327e45391cef45702c1604617d5f4700f7a7938ae9df6"
+   },
+   "overview": {
+    "rows": 52,
+    "file": "task8_cys_unified_map_v3b_all_starts.overview.csv.gz",
+    "csv_bytes": 7819,
+    "gz_bytes": 3108,
+    "sha256_csv": "3b1e367ea2d45909e28a370cca4d7e1bba645d3db57304edcb67a2ae043ccbdd"
+   }
+  }
+ },
+ "task8_cys_unified_map_v3a_nist_starts": {
+  "source_file": "TASK_8_Cryptika_Phase5_Unified_Map_V3_A_NIST_Starts.xlsx",
+  "sheets": {
+   "map": {
+    "title": "CRYPTIKA  ·  TASK 8 - UNIFIED CYBERSECURITY CONTROL MAP — V3-A",
+    "column_groups": [
+     "CONTROL",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "INTERNATIONAL STANDARDS",
+     null,
+     null,
+     null,
+     null,
+     "SAUDI ARABIA",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "JORDAN",
+     null,
+     null,
+     null,
+     null,
+     "UAE",
+     "MAPPING QA",
+     null
+    ],
+    "rows": 19983,
+    "non_string_cells": {},
+    "file": "task8_cys_unified_map_v3a_nist_starts.map.csv.gz",
+    "csv_bytes": 25529536,
+    "gz_bytes": 1807085,
+    "sha256_csv": "95e04cf23228ff6b18b125b4ea331c18b22a2e680cbd1e833ccbac40ae9ee705"
+   },
+   "overview": {
+    "rows": 52,
+    "file": "task8_cys_unified_map_v3a_nist_starts.overview.csv.gz",
+    "csv_bytes": 7756,
+    "gz_bytes": 3094,
+    "sha256_csv": "38c2339e433c2c9e94b42fbaacf55238011bfc32f6dd24c84fda9887ff0d6db3"
+   }
+  }
+ },
+ "task9_pdpl_unified_map_v3b_every_framework": {
+  "source_file": "TASK_9_PDPL_Phase5_Unified_Control_Map_V3_B_Every_Framework.xlsx",
+  "sheets": {
+   "map": {
+    "title": "CRYPTIKA  ·  TASK 9 PDPL - UNIFIED PERSONAL DATA PROTECTION CONTROL MAP  ·  VERSION B — EVERY FRAMEWORK STARTS ITS OWN ROWS",
+    "column_groups": [
+     "CONTROL",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "INTERNATIONAL STANDARDS",
+     null,
+     null,
+     "EUROPEAN UNION",
+     "SAUDI ARABIA",
+     null,
+     null,
+     "JORDAN",
+     null,
+     "UAE",
+     "MAPPING QA",
+     null
+    ],
+    "rows": 3900,
+    "non_string_cells": {},
+    "file": "task9_pdpl_unified_map_v3b_every_framework.map.csv.gz",
+    "csv_bytes": 3940229,
+    "gz_bytes": 332697,
+    "sha256_csv": "c083faba3aa37c057e1af93a8e142bf1e14073568eab28372b7a4a38dbc6f5b8"
+   },
+   "overview": {
+    "rows": 59,
+    "file": "task9_pdpl_unified_map_v3b_every_framework.overview.csv.gz",
+    "csv_bytes": 9065,
+    "gz_bytes": 3900,
+    "sha256_csv": "b61ec22a23221a74b668e689c087da6d395e99eb4056faea6bb71dbe1985094c"
+   }
+  }
+ },
+ "task9_pdpl_unified_map_v3a_gdpr_first": {
+  "source_file": "TASK_9_PDPL_Phase5_Unified_Control_Map_V3_A_GDPR_First.xlsx",
+  "sheets": {
+   "map": {
+    "title": "CRYPTIKA  ·  TASK 9 PDPL - UNIFIED PERSONAL DATA PROTECTION CONTROL MAP  ·  VERSION A — GDPR STARTS ROWS FIRST",
+    "column_groups": [
+     "CONTROL",
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     "INTERNATIONAL STANDARDS",
+     null,
+     null,
+     "EUROPEAN UNION",
+     "SAUDI ARABIA",
+     null,
+     null,
+     "JORDAN",
+     null,
+     "UAE",
+     "MAPPING QA",
+     null
+    ],
+    "rows": 2948,
+    "non_string_cells": {},
+    "file": "task9_pdpl_unified_map_v3a_gdpr_first.map.csv.gz",
+    "csv_bytes": 2870478,
+    "gz_bytes": 250654,
+    "sha256_csv": "16538d6cec98f14cc702384b44dac27e376d82ffe690055c88e1d2754b7a6f0e"
+   },
+   "overview": {
+    "rows": 59,
+    "file": "task9_pdpl_unified_map_v3a_gdpr_first.overview.csv.gz",
+    "csv_bytes": 9160,
+    "gz_bytes": 3894,
+    "sha256_csv": "a53bb50f49835907344ee9b13de2c7d10e427323c7b6658bd57dd0e6be246aff"
+   }
+  }
+ }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "cryptika-grc-hub",
+  "version": "1.0.0",
+  "description": "Cryptika GRC Hub — multi-tenant governance, risk, compliance and audit platform",
+  "private": true,
+  "type": "commonjs",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node server/index.js",
+    "reset": "node server/db/reset.js",
+    "test": "node tests/smoke.js"
+  }
+}
