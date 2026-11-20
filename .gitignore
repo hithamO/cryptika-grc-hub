@@ -1,0 +1,7 @@
+data/grc.db*
+data/uploads/
+node_modules/
+tools/cloudflared.exe
+data/imports/*.json
+.env
+*.log
